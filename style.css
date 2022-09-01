@@ -30,6 +30,7 @@ main div {
 
 .darkest {
     background-color: hsl(179, 62%, 43%);
+    color: #fff;
 }
 
 .darker {
