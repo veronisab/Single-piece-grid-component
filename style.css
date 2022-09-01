@@ -74,6 +74,8 @@ button {
     main {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
+        width: 60vw;
+
     }
 
     .light {
